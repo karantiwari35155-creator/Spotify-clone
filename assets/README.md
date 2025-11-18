@@ -22,13 +22,6 @@
     🔍 Search bar, playlists card, and smooth UI spacing
 
 
-    📸 Project Preview
-
-    (Add your screenshot here—example below)
-
-    K:\Web dev\Spotifyclone\assets\Spotify Clone.png
-
-
 🛠️ Technologies Used
 
     1. HTML5 – Page structure
