@@ -29,14 +29,14 @@
     2. CSS3 – Styling, layout, responsiveness
 
     3. No frameworks. No JavaScript. Pure frontend UI clone.
-
+```
 📂 Folder Structure
 ├── index.html
 ├── style.css
 └── assets/
        ├── images/
        └── icons/
-
+```
 
 🚀 How to Use
 
